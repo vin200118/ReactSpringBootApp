@@ -3,6 +3,8 @@
 
 git clone -b master https://github.com/vin200118/ReactSpringBootApp.git
 
+After clone you need to change repository urls in build.gradle, check with existing build.gradle file
+
 C:\Users\..\workspace\ReactSpringBootApp\Frontend>npm install
 
 C:\Users\..\workspace\ReactSpringBootApp\Frontend>npm start
